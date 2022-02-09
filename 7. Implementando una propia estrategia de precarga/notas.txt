@@ -1,0 +1,10 @@
+Lecturas recomendadas
+
+Intersection Observer API - Web API reference | MDN
+
+https://developer.mozilla.org/es/docs/Web/API/Intersection_Observer_API
+
+
+GitHub - mgechev/ngx-quicklink: Quicklink prefetching strategy for the Angular router
+
+https://github.com/mgechev/ngx-quicklink
