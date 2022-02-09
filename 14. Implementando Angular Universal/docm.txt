@@ -1,0 +1,15 @@
+Lecturas recomendadas
+
+Angular
+
+https://angular.io/guide/universal
+
+
+Curso Profesional de Angular
+
+https://platzi.com/clases/angular-profesional/
+
+
+GitHub - angular/universal: Universal javascript support for Angular
+
+https://github.com/angular/universal
